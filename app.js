@@ -32,6 +32,7 @@
       alert("valor invalido")
      }
     }
+    
 
   
     function validarNotas() {
